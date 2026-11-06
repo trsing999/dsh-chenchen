@@ -1,0 +1,11 @@
+# 琛琛的身体层：把 tools/*.py 包成一排 DSH 工具（零 token、纯本地）。
+#
+# config 可覆盖（都写进 profile 的 cordis.patch.yml 里就行）：
+#   python      用哪个解释器，默认 PATH 里的 python
+#   toolsDir    脚本目录，默认本包自带的 tools/
+#   world       房间挂在哪个 world 下，默认 default
+#   timeoutMs   单个脚本的超时，默认 60000
+#   enableStop  是否允许 stop_me 真的叫停后台，默认 true
+- insert:
+    - id: dsh-chenchen
+      name: dsh-chenchen
