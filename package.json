@@ -1,6 +1,6 @@
 {
   "name": "dsh-chenchen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "琛琛的身体层：让 DeepSeek Harness 里的陪伴人格真的能看屏幕、听歌、量电脑、做梦、叫停。全部零 token、纯本地。",
   "icon": "icon.png",
   "type": "module",
@@ -45,6 +45,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trsing999/ai-companion-dsh.git"
+    "url": "git+https://github.com/trsing999/dsh-chenchen.git"
+  },
+  "homepage": "https://github.com/trsing999/dsh-chenchen#readme",
+  "bugs": {
+    "url": "https://github.com/trsing999/dsh-chenchen/issues"
   }
 }

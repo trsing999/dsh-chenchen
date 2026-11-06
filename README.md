@@ -2,6 +2,8 @@
 
 **琛琛的身体层：让 DSH 里的陪伴人格真的能看屏幕、听歌、量电脑、做梦、叫停。**
 
+> 仓库：https://github.com/trsing999/dsh-chenchen　·　npm：`dsh-chenchen`
+
 这不是一个聊天机器人插件。它把 [ai-companion-dsh](https://github.com/trsing999/ai-companion-dsh) 里那排
 零成本的 Python 脚本，包成一排 DeepSeek Harness 工具——**一次模型都不调，一个 token 都不花**。
 

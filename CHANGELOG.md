@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.1.1 — 2026-11-06
+
+- `repository` / `homepage` / `bugs` 指向独立仓库 `trsing999/dsh-chenchen`
+- README 补上仓库与 npm 入口
+
 ## 0.1.0 — 2026-11-06
 
 首个可安装版本。
