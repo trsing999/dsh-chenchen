@@ -3,3 +3,7 @@ logs/
 test/.tmp/
 *.tmp
 __pycache__/
+
+*.bak
+
+test/_*.py
